@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jeff Border</title>
+    <link>https://jeffbor.github.io/post/</link>
+    <description>Recent content in Posts on Jeff Border</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>jeff@jeffborder.net (Jeff Border)</managingEditor>
+    <webMaster>jeff@jeffborder.net (Jeff Border)</webMaster>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jeffbor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building This Blog Site</title>
+      <link>https://jeffbor.github.io/post/2022-12-01-building-this-blog/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <author>jeff@jeffborder.net (Jeff Border)</author>
+      <guid>https://jeffbor.github.io/post/2022-12-01-building-this-blog/</guid>
+      <description>I finally had some time to build a personal site and blog &amp;ldquo;platform&amp;rdquo; to both better manage content for personal projects and pontification re. technology and other topics, but also upgrade to current or future-proof methods.
+Following are the criteria I wanted to accomplish:
+Manage Content in a Git Repo I am a dev(sec)ops nerd, so it&amp;rsquo;s a no-brainer that the solution had to manage content using a modern VMS using GitHub Flow.</description>
+    </item>
+    
+  </channel>
+</rss>

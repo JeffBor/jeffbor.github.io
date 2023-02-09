@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jeff Border</title>
+    <link>https://jeffbor.github.io/categories/</link>
+    <description>Recent content in Categories on Jeff Border</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>jeff@jeffborder.net (Jeff Border)</managingEditor>
+    <webMaster>jeff@jeffborder.net (Jeff Border)</webMaster><atom:link href="https://jeffbor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
