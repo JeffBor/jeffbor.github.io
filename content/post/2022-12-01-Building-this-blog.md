@@ -11,7 +11,7 @@ Following are the criteria I wanted to accomplish:
 
 I am a dev(sec)ops nerd, so it's a no-brainer that the solution had to manage content using a modern VMS using [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow).  Naturally I chose my favorite platform [GitHub](https://github.com).  It offers some other benefits which I will detail in the following sections.
 
-Also, the solution needed to manage content and code privately but allow me to invite others to critique posts, contribute, etc. if need be.
+Also, the solution needed to be completely transparent and allow me to invite others to critique posts, contribute, etc. if need be.
 
 ## Use Modern Static Site Generator
 
