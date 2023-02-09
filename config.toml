@@ -1,5 +1,6 @@
 baseurl = "https://jeffbor.github.io"
 DefaultContentLanguage = "en"
+languageCode = "en-us"
 title = "Jeff Border"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
